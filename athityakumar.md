@@ -15,3 +15,5 @@ Hey there, reader! I'm an under-grad student from IIT Kharagpur, India. I'm curr
 - [ ] Facebook profile :  https://www.facebook.com/athitya.kumar 
 
 - [ ] Room number :  A-411
+
+- [ ] Teams : Web , Opensoft
