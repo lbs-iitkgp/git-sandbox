@@ -15,3 +15,5 @@
 - [ ] Facebook profile :  Link to your facebook profile 
 
 - [ ] Room number :  You room number 
+
+- [ ] Teams : Tech GC event(s)
