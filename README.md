@@ -23,3 +23,13 @@ A repository to get started with Git &amp; GitHub. Task is simple - add a file c
 (4) Push these changes to your fork with `git add`, `git commit` and `git push` statements.
 
 (5) Create a Pull Request to this repository by comparing across forks with your fork.
+
+### Tutorials for Git 
+
+(1) [What is git?](https://www.atlassian.com/git/tutorials/what-is-git)
+
+(2) [GitHub Tutorial](https://try.github.io/levels/1/challenges/1)
+
+(3) [Git Book](https://git-scm.com/book/en/v2)
+
+(4) [Learning resources](https://help.github.com/articles/git-and-github-learning-resources/)
